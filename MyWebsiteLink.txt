@@ -1,2 +1,11 @@
+My Website Link
 https://csci313-spring2024.github.io/assignment-2-jacobgerhart2/
 
+Instagram Wireframe
+https://www.figma.com/file/CWSrj6TzXJ0aLgmx8CzPUg/Instagram-UI?type=design&node-id=0%3A1&mode=design&t=5fktQhTLKvQ1KtFw-1
+
+Texting Wireframe
+https://www.figma.com/file/bPbtxkNXaQvJ9JUTteG5h3/Texting-UI?type=design&node-id=0%3A1&mode=design&t=NMwwkzkcc9j5Dlit-1
+
+YouTube Wireframe
+https://www.figma.com/file/dutrJP6LhVJcXeapoyDG6M/Youtube-UI?type=design&node-id=0%3A1&mode=design&t=aPfq9HZrydiVl23C-1
